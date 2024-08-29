@@ -1,0 +1,53 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  width: 500px;
+  margin: 50px auto;
+  padding: 50px 55px;
+  border-radius: 22px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  background-color: #fff;
+}
+.label {
+  font-size: 22px;
+  margin-bottom: -8px;
+}
+.text {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid grey;
+  outline: none;
+  font-size: 18px;
+}
+.text:focus {
+  box-shadow: rgba(85, 166, 232, 0.703) 0px 1px 4px 0px;
+  border: none;
+}
+.submit {
+  width: fit-content;
+  padding: 8px 20px;
+  font-size: 17px;
+  background-color: rgb(52, 52, 145);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  margin-top: 5px;
+  transition: 0.3s all;
+}
+.submit:hover {
+  background-color: white;
+  color: rgb(52, 52, 145);
+  border: 1px solid rgb(52, 52, 145);
+  cursor: pointer;
+}
+.form > h2 {
+  text-align: center;
+  font-size: 28px;
+}
+.register {
+  text-decoration: underline;
+  color: dodgerblue;
+  cursor: pointer;
+}

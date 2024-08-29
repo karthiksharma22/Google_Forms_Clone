@@ -1,0 +1,33 @@
+.download-button {
+  background-color: transparent;
+  color: rgb(52, 52, 145);
+  padding: 5px 12px;
+  border: 1px solid rgb(52, 52, 145);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.download-button:hover {
+  background-color: rgb(52, 52, 145);
+  color: white;
+}
+
+.submit2 {
+  color: white;
+  background-color: rgb(52, 52, 145);
+  padding: 5px 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s;
+  display: inline;
+  margin-left: 20px;
+}
+
+.form1 {
+  width: 800px;
+  margin: 40px auto;
+}

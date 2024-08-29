@@ -1,0 +1,40 @@
+.formurl {
+  text-align: center;
+  background-color: #fff;
+  display: flex;
+  gap: 30px;
+  width: 700px;
+  margin: 30px auto;
+  flex-direction: column;
+  border-radius: 18px;
+  padding: 40px;
+}
+.formurl > p {
+  font-size: 20px;
+}
+.url {
+  display: flex;
+  border-radius: 18px;
+  color: white;
+  padding: 10px;
+  background-color: #313131;
+}
+.clip {
+  width: 100px;
+  font-size: 23px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.clip > i:hover {
+  color: #ea4335;
+}
+.link {
+  border: none;
+  border-left: 1px solid white;
+  border-radius: 0px;
+  font-size: 18px;
+  padding-left: 10px;
+  font-family: monospace;
+}

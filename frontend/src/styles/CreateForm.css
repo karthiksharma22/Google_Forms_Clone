@@ -1,0 +1,67 @@
+.chead {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 40px;
+  background-color: #fff;
+  width: 700px;
+  margin: 40px auto;
+  border-radius: 18px;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  border-top: 13px solid #ea4335;
+}
+.text1 {
+  outline: none;
+  padding: 3px 10px;
+  font-size: 17px;
+  transition: all 0.2s ease;
+  border: none;
+  border-bottom: 1px solid black;
+}
+.text1:focus {
+  border-bottom: 2px solid #ea4335;
+}
+.button {
+  padding: 8px 20px;
+  font-size: 17px;
+  background-color: rgb(52, 52, 145);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  margin-top: 5px;
+  transition: 0.3s all;
+}
+.button:hover {
+  background-color: white;
+  color: rgb(52, 52, 145);
+  border: 1px solid rgb(52, 52, 145);
+  cursor: pointer;
+}
+.textarea {
+  padding: 40px;
+  font-size: 18px;
+}
+.qcard1 {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 40px;
+  background-color: #fff;
+  width: 700px;
+  margin: 40px auto;
+  border-radius: 18px;
+  display: flex;
+  gap: 20px;
+  align-items: start;
+  margin-left: -40px;
+  flex-direction: column;
+}
+.drop {
+  padding: 5px 10px;
+  display: inline;
+  font-size: 18px;
+  background-color: #f0f0f0;
+  border-radius: 9px;
+}
+.q1 {
+  accent-color: rgb(26, 26, 158);
+  transform: scale(1.5);
+}

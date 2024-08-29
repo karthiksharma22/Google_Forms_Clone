@@ -1,0 +1,32 @@
+.please {
+  font-size: 30px;
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  margin-top: 100px;
+}
+.redirect {
+  color: dodgerblue;
+  font-size: 22px;
+  font-style: italic;
+}
+.please1 {
+  color: #595757;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 40px;
+}
+.add {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  cursor: pointer;
+  margin: auto;
+}
+.create {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}

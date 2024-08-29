@@ -1,0 +1,23 @@
+.qcard {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 40px;
+  background-color: #fff;
+  width: 700px;
+  margin: 40px auto;
+  border-radius: 18px;
+  display: flex;
+  gap: 20px;
+  align-items: start;
+  flex-direction: column;
+  border-left: 8px solid #e69138;
+}
+.question {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+}
+.question > input {
+  accent-color: rgb(26, 26, 158);
+  transform: scale(1.5);
+}
