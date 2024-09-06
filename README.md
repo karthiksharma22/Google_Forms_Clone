@@ -23,3 +23,16 @@ This project is a MERN stack-based form builder clone that allows users to creat
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/karthiksharma22/Google_Forms_Clone.git
+
+## Screenshots
+
+### Login Interface
+![Form Creation](https://github.com/karthiksharma22/Google_Forms_Clone/blob/main/gf1.PNG)
+
+### Form Builder
+![Form Creation](https://github.com/karthiksharma22/Google_Forms_Clone/blob/main/gf2.PNG)
+
+### Form Submission Page
+
+![Form Submission](https://github.com/karthiksharma22/Google_Forms_Clone/blob/main/2024-09-06.png)
+![Response Management](https://github.com/karthiksharma22/Google_Forms_Clone/blob/main/gf3.PNG)
