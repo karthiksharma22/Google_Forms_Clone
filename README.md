@@ -29,10 +29,13 @@ This project is a MERN stack-based form builder clone that allows users to creat
 ### Login Interface
 ![Form Creation](https://github.com/karthiksharma22/Google_Forms_Clone/blob/main/gf1.PNG)
 
-### Form Builder
+### Create a Form Page
 ![Form Creation](https://github.com/karthiksharma22/Google_Forms_Clone/blob/main/gf2.PNG)
 
-### Form Submission Page
+### Form Builder Page
 
 ![Form Submission](https://github.com/karthiksharma22/Google_Forms_Clone/blob/main/2024-09-06.png)
+
+### URL for the published Form
+
 ![Response Management](https://github.com/karthiksharma22/Google_Forms_Clone/blob/main/gf3.PNG)
